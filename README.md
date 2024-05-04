@@ -15,7 +15,7 @@ This app was made as an assignment to the Control Systems (ES 245) course offere
 
 ### Installing
 
-* For installing the web app you just need to have MATLAB up and running, then open the web app file.
+* For installing the web app you just need to have MATLAB up and running, then open the web app file. The path to the exe is Second Order System Analysis App/app1/for_redistribution/MyAppInstaller_web.exe .
 * For the standalone desktop app, follow the procedure as for any other .exe application
 
 ## Authors
