@@ -20,8 +20,6 @@ This app was made as an assignment to the Control Systems (ES 245) course offere
 
 ## Authors
 
-Contributors names and contact info
-
 [Abhinav Goud](https://github.com/Zerefdark69420)
 [Aditya Mehta](https://github.com/aditya-me13)
 [Akshat Barnwal](https://github.com/brave-tarnished)
