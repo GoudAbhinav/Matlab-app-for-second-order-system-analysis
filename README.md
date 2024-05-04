@@ -11,7 +11,7 @@ This app was made as an assignment to the Control Systems (ES 245) course offere
 ### Dependencies
 
 * The app is exported as a standalone .exe app that would require an OS that supports .exe apps.
-* To access the MATLAB implementation, MATLAB with the app designer is needed.
+* The matlab app installer installs an app in the apps section of MATLAB.
 
 ### Installing
 
